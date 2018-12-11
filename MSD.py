@@ -6,7 +6,7 @@ Created on Thu Jan 18 13:33:40 2018
 @author: Aniv21
 """
 
-# importing libraries
+# importing libraries/
 import math
 import cv2
 import numpy as np
