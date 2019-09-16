@@ -3,7 +3,7 @@
 """
 Created on Thu Jan 18 15:19:54 2018
 
-@author: aditya1
+@author: Aniv21
 """
 import math
 import operator
